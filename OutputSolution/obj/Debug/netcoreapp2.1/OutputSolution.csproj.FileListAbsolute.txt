@@ -1,0 +1,8 @@
+C:\Users\ben.abbitt\workspace\IndexError\OutputSolution\bin\Debug\netcoreapp2.1\OutputSolution.deps.json
+C:\Users\ben.abbitt\workspace\IndexError\OutputSolution\bin\Debug\netcoreapp2.1\OutputSolution.dll
+C:\Users\ben.abbitt\workspace\IndexError\OutputSolution\bin\Debug\netcoreapp2.1\OutputSolution.pdb
+C:\Users\ben.abbitt\workspace\IndexError\OutputSolution\obj\Debug\netcoreapp2.1\OutputSolution.csprojAssemblyReference.cache
+C:\Users\ben.abbitt\workspace\IndexError\OutputSolution\obj\Debug\netcoreapp2.1\OutputSolution.AssemblyInfoInputs.cache
+C:\Users\ben.abbitt\workspace\IndexError\OutputSolution\obj\Debug\netcoreapp2.1\OutputSolution.AssemblyInfo.cs
+C:\Users\ben.abbitt\workspace\IndexError\OutputSolution\obj\Debug\netcoreapp2.1\OutputSolution.dll
+C:\Users\ben.abbitt\workspace\IndexError\OutputSolution\obj\Debug\netcoreapp2.1\OutputSolution.pdb
